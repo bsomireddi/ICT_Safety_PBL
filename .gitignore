@@ -1,0 +1,4 @@
+Data/raw/
+__pycache__/
+*.pkl
+*.zip
